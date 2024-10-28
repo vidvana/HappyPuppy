@@ -1,0 +1,13 @@
+FIV
+diabetes
+FeLV
+tooth pathology
+cancer
+kidney disease
+feline heartworm
+hyperthyroidism
+obesity
+cystitis
+amputated limb
+blindness
+deafness
