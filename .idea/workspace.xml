@@ -5,35 +5,108 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acb85db8-968b-46a3-ba0f-e0d7e3e3671f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/Between.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/Between.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/CSVWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/CSVWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/PeselGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/PeselGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/RandomFileLineChooser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/RandomFileLineChooser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/Simulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/Simulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/UniqueRandomNumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/UniqueRandomNumberGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/LivingConditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/LivingConditions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/Sex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/Sex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/Species.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/Species.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/organisms/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/organisms/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/organisms/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/organisms/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/otherrecords/Adoption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/otherrecords/Adoption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/otherrecords/Preferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/otherrecords/Preferences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/otherrecords/Presentation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/otherrecords/Presentation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/otherrecords/Walk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/otherrecords/Walk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/otherrecords/Work.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/otherrecords/Work.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/processes/AdoptionProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vidvana/happypuppy/simulation/entities/processes/AdoptionProcess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/strings_for_random_gens/animal_names_female.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/strings_for_random_gens/animal_names_female.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/strings_for_random_gens/animal_names_male.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/strings_for_random_gens/animal_names_male.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/strings_for_random_gens/human_male_names.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/strings_for_random_gens/human_male_names.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/strings_for_random_gens/human_surnames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/strings_for_random_gens/human_surnames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/strings_for_random_gens/observations.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/strings_for_random_gens/observations.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yuul-ia&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yuul-ia/HappyPuppyV2.git&quot;,
+    &quot;accountId&quot;: &quot;380297d3-5cc2-401d-843d-ed5ae35cf448&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2nzBAt7LJqPRrKXsurANCk14Thq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build HappyPuppyV2.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.HappyPuppyV2 [:vidvana.happypuppy.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/julia/Documents/sem-5/HD/HappyPuppyV2/src/main/resources&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main file bby" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="vidvana.happypuppy.Main" />
+      <module name="HappyPuppyV2.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
